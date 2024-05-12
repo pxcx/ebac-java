@@ -1,0 +1,12 @@
+inicio
+    1. Abrir os Olhos
+    Se Despertador = Tocando
+        1. Desligar o Despertador
+    2. Levantar da Cama
+    3. Escovar os Dentes
+    4. Tomar Banho
+    5. Vestir-se
+    Se Café != Pronto
+        1. Fazer Café
+    6. Tomar Café
+fim
